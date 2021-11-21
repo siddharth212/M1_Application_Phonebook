@@ -1,6 +1,6 @@
 # Requirements
 ## Introduction
- --- This project is about simple phonebook application that allows the simple phonebook operations, like adding, deleting, modifying, searching records related to phonebook.
+  This project is about simple phonebook application that allows the simple phonebook operations, like adding, deleting, modifying, searching records related to phonebook.
 
 ## Research
 ![Description](Link to Pic)
