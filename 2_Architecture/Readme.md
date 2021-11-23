@@ -7,4 +7,4 @@ We have Different Functions to do the desired operation according to the choise 
 . deleterecord()
 . exit()
 
-![Design](http://url/to/img.png)
+![Design](https://github.com/siddharth212/M1_Application_Phonebook/blob/main/2_Architecture/Design.png)
