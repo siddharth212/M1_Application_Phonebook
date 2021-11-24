@@ -10,6 +10,7 @@ BUILD = build
 
 # All source code files
 SRC = phonebook/phonebook_application.c\
+phonebook/phonebook.c\
 
 
 
