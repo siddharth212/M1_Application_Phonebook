@@ -18,7 +18,8 @@ struct person
     char mail[100];
      };
 
-     
+void got(char *name);
+void menu();
 void addrecord();
 void modifyrecord();
 void deleterecord();
