@@ -16,6 +16,6 @@ jobs:
     - name: setup
       run: sudo apt-get install make
     - name: make
-      run: make -C 3_Implementation
+      run: make -C 3_Implementation/
       
   
