@@ -4,10 +4,9 @@
 /* Included to allow users to call functions from math library if required */
 #include "math.h"
 #include "stdio.h"
-#include "conio.h"
 #include "string.h"
 #include "stdlib.h"
-#include "windows.h"
+
 
 /* strcture definition must be reused by the users in their code */
 
