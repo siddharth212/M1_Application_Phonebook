@@ -1,5 +1,5 @@
 #include "phonebook.h"
-#include <curses.h>
+#include <conio.h>
 
 
 
