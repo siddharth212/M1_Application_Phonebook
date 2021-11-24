@@ -10,7 +10,7 @@ LDFLAGS =
 # Makefile settings - Can be customized.
 APPNAME = myapp
 EXT = .c
-SRCDIR = github.com/siddharth212/M1_Application_Phonebook/blob/main/3_Implementation/
+SRCDIR = github.com/siddharth212/M1_Application_Phonebook/blob/main/3_Implementation/phonebook
 OBJDIR = obj
 
 ############## Do not change anything from here downwards! #############
