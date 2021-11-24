@@ -2,7 +2,7 @@
 #include<string.h>
 #include<stdlib.h>
 #include "phonebook.h"
-#include "conio.h"
+#include <curses.h>
 
 
 void menu();
