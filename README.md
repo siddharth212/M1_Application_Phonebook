@@ -10,3 +10,8 @@
 [![Static code Cppcheck](https://github.com/siddharth212/M1_Application_Phonebook/actions/workflows/cpp_check.yml/badge.svg)](https://github.com/siddharth212/M1_Application_Phonebook/actions/workflows/cpp_check.yml)
 
 [![Build Linux](https://github.com/siddharth212/M1_Application_Phonebook/actions/workflows/Linux%20Build.yml/badge.svg)](https://github.com/siddharth212/M1_Application_Phonebook/actions/workflows/Linux%20Build.yml)
+
+
+<h4> Setup - 1.To run this project on you local machine, clone this repository </h4>
+<h4> 2. Now go to the implementation directory and type the make command to compile the multiple files</h3>
+<h4> 3. Now you can run the app by using command ./phapp </h4>
