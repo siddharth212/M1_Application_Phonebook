@@ -8,3 +8,5 @@
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/8d7d63a9585a475f9920fad7f1703213)](https://www.codacy.com/gh/siddharth212/M1_Application_Phonebook/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=siddharth212/M1_Application_Phonebook&amp;utm_campaign=Badge_Grade)
 
 [![Static code Cppcheck](https://github.com/siddharth212/M1_Application_Phonebook/actions/workflows/cpp_check.yml/badge.svg)](https://github.com/siddharth212/M1_Application_Phonebook/actions/workflows/cpp_check.yml)
+
+[![Build Linux](https://github.com/siddharth212/M1_Application_Phonebook/actions/workflows/Linux%20Build.yml/badge.svg)](https://github.com/siddharth212/M1_Application_Phonebook/actions/workflows/Linux%20Build.yml)
